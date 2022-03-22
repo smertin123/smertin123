@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smertin123
-- Im studying how to become a penetration tester and will post anything i create on here along the way
+- I am currently completing an intership as a penetration tester.
 - I have studied compTIA A+, Network+, Security+. Passed the codecademy web developement course which teaches HTML, CSS, JavaScript and SQL. 
-- I know the basics of Python, Bash, C++ and PowerShell
+- I know the basics of Python, Bash, C++, PowerShell and golang
 - Contact me on Twitter @smertin9 also view my blog @ https://smertinit.blogspot.com/
